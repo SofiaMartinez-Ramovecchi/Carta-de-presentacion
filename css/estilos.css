@@ -1,0 +1,26 @@
+#fotoperfil{
+    border-radius:10%;
+    display:block;
+    margin:auto;
+    width: 100%;
+    height: 10%;
+
+}
+.div-decorativo{
+    padding-right: 3px;
+}
+.div-nombre{
+    padding: 5%;
+}
+.color-texto-marron{
+    color:rgb(112, 60, 4); 
+}
+.textos-right{
+    padding-left: 5%;
+}
+.font{
+    font-family: monospace;
+}
+.textos-top{
+    padding-top: 5%;
+}
